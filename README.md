@@ -2,8 +2,8 @@
 A Database in php using PDO &amp; mysqli
 
 # Features
-&bull; Register / Login / Logout
-&bull; Forgot Password / Change Password
-&bull; Edit Data / Delete Data / Update Data
-&bull; Check Logs
+&bull; Register / Login / Logout<br>
+&bull; Forgot Password / Change Password<br>
+&bull; Edit Data / Delete Data / Update Data<br>
+&bull; Check Logs<br>
 &bull; Delete Account / Update Account
