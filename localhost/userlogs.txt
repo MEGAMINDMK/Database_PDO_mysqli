@@ -1,1 +1,8 @@
-
+Username : localhost
+Country : PK
+City : Peshawar
+Refferer : http://localhost/login.php
+IP Address : 127.0.0.1
+Current Page : http://localhost/index.php
+Current Time : Sunday 12th of May 2019 11:48:24 AM
+Browser : Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
