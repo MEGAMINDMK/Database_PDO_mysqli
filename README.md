@@ -7,4 +7,5 @@ A Database in php using PDO &amp; mysqli
 &bull; Edit Data / Delete Data / Update Data / Add Data / Display Data<br>
 &bull; Check Logs<br>
 &bull; Delete Account / Update Account<br>
-&bull; Filemanager
+&bull; Filemanager<br>
+&bull; Data Filteration
