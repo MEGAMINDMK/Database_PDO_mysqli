@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://giphy.com/gifs/QA0YqaL4EMzctk5qQg/html5></a>
+<a href="https://media.giphy.com/media/QA0YqaL4EMzctk5qQg/giphy.gif></a>
 </p>
+         
 # Database_PDO_mysqli
 A Database in php using PDO &amp; mysqli
 
